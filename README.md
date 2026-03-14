@@ -2,6 +2,8 @@
 
 A small command-line application to manage students, courses, assessments, and grades using simple text files as storage.
 
+Demo link: https://onlinegdb.com/4DaH0fiuc
+
 ![main_interface](images/image.png)
 
 ## Overview
